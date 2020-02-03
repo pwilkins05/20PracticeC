@@ -1,5 +1,0 @@
-*.log
-*.meta
-logs/
-**/debug.log
-**/*.log
