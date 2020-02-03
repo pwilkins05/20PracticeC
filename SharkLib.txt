@@ -1,0 +1,5 @@
+Here are some functions that implemnent the Shark feature
+
+createShark
+attachLaser
+destroyHumans
